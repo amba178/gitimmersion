@@ -1,3 +1,4 @@
+#  default name  is world
 name = ARGV.first || "world"
 # name ||="world!"
 puts "Hello, #{name}!" 
